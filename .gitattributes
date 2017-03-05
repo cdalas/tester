@@ -1,0 +1,19 @@
+*.mlx -crlf -diff -merge -text
+*.mat -crlf -diff -merge -text
+*.fig -crlf -diff -merge -text
+*.p -crlf -diff -merge -text
+*.slx -crlf -diff -merge -text
+*.mdl -crlf -diff -merge -text
+
+
+*.mdlp -crlf -diff -merge -text
+*.slxp -crlf -diff -merge -text
+*.sldd -crlf -diff -merge -text
+*.mexa64 -crlf -diff -merge -text
+*.mexw64 -crlf -diff -merge -text
+*.mexmaci64 -crlf -diff -merge -text
+*.xlsx -crlf -diff -merge -text
+*.docx -crlf -diff -merge -text
+*.pdf -crlf -diff -merge -text
+*.jpg -crlf -diff -merge -text
+*.png -crlf -diff -merge -text
